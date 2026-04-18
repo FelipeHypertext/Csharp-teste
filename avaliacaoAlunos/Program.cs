@@ -1,6 +1,4 @@
-﻿using System.Text.RegularExpressions;
-
-namespace avaliacaoAlunos;
+﻿namespace avaliacaoAlunos;
 
 class Program
 {
